@@ -9,4 +9,4 @@ Files are following this structure ```chapterNum.exs```
 ### Cheatsheets
 The cheatsheet contains a quick recap of types, structures and definitions
 ## Sources
-    - [Joy of Elixir](https://joyofelixir.com/)
+[Joy of Elixir](https://joyofelixir.com/)
